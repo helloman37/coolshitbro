@@ -24,7 +24,6 @@ GApps can, and will slow down your Switch. Get this if you really want this, but
 How to install Switchroot onto The Nintendo Switch: https://www.youtube.com/watch?v=vGteGZ7lcXE
 How to Root Android 10 for Switchroot: https://www.youtube.com/watch?v=yMnWHGYnWPw
 
-(Remember, you will need to install Downloader for processes. Get it from the Google Play Store, it is free!)
 
 Note: This is for The Nintendo Switch, no other device had been tested. (You must have a jailbroken switch).
 Install Switchroot Android.
