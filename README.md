@@ -1,6 +1,9 @@
 At first I wanted to make this available for any android device. What is better than to have it on a gaming system.
 This process is less than painful, and a lot painless than the origional method I wanted to use.
 Everything is preselected to make this a smooth process. This will NOT be done for you.
+
+I have added the current Tivimate APK just incase they find this out, and rig it more. I have made Auto Update to be disabled. DO NOT update the app.
+
 Sometimes to learn, is to do it yourselves. I will however build a guide for you. That is below:
 
 Remember reading is fundimental.
