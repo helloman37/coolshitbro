@@ -58,15 +58,25 @@ Download the zip to Switchroot, then extract it's contents to the folder specifi
 Make sure Tivimate is closed durring this. 
 
 Q/A
+
 (1) How do I use Tivimate on my switch, it is buggy when I use the touchscreen. 
+
 A: Use the joycons, dock the switch to the tv, all is good. (By now you should know how to use the joycons with Switchroot).
+
 (2) Will this method work on future releases of Tivimate?
+
 A: Will be determined when one is released, by theory it will work no problem.
+
 (3) Will you provide any tv channels?
+
 A: No
+
 (5) I do not have the Google play Store, WTF?
+
 A: Had you remembered to install it as described in the video?
+
 (6) Where can I get channels?
+
 A: Goodle is your friend.
 
 Bye, bye now. Enjoy!
