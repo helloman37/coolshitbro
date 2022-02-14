@@ -37,7 +37,7 @@ Look at the opened windows, and make sure Tivimate is fully closed.
 Install Aptoid, then download Root Explorer (After you have rooted your Switchroot).
 Grand root permissions.
 
-Download the Tivimate Zip (https://bit.ly/tivimatesman) is given to you. Then open up Root Explorer to extract
+Download the Tivimate Zip (https://bit.ly/tivimateman2) is given to you. Then open up Root Explorer to extract
 all the files from within the zip archive to /data/data/ar.tvplayer.tv
 
 Everything should be working great by the time you had done all that is shown here in this guide.
