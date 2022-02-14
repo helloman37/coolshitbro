@@ -27,6 +27,7 @@ Install Switchroot Android.
 /data/data/ar.tvplayer.tv
 is the folder we are working with.
 
+
 Downlaoad and install the version 4.2.0 of TIVIMATE from: 
 https://www.mediafire.com/file/j6qtf5x1ohriumd/tivimate_4201.apk/file
 Short url: https://bit.ly/3HMKMYQ
@@ -39,6 +40,10 @@ Grand root permissions.
 
 Download the Tivimate Zip (https://bit.ly/tivimateman2) is given to you. Then open up Root Explorer to extract
 all the files from within the zip archive to /data/data/ar.tvplayer.tv
+
+When you use Root Explorer, it will extract the contents to: /storage/emulated/0/SpeedSoftware/Extracted
+Go into that folder, copy all folders then go into the root folder, /data/data/ar.tvplayer.tv and paste the files there, replace everything. Make sure tivimate
+is closed before this. Once it had replaced everything, reopen tivimate and all should be unlocked.
 
 Everything should be working great by the time you had done all that is shown here in this guide.
 
