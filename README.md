@@ -76,6 +76,6 @@ A: Had you remembered to install it as described in the video?
 
 (6) Where can I get channels?
 
-A: Goodle is your friend.
+A: Google is your friend. (Or is it? ;))
 
 Bye, bye now. Enjoy!
