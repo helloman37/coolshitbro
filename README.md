@@ -1,7 +1,8 @@
 Edit: Download, TWRP.rar and extract it to the root of your SD CARD. After you have done that open the TWRP recovery
 on your nintendo switch, then click Wipe, and Wipe EVERYTHING. Then hit back and click restore.
 Select your sdcard from Select Storage and restore everything from the TWRP RAR file.
-Url to download TABLER TWRP RAR FILE:
+
+Url to download TABLET TWRP RAR FILE:
 https://www.dropbox.com/s/5xufzqn54b25svd/TWRP.rar?dl=1
 
 Url to download TV TWRP RAR FILE:
