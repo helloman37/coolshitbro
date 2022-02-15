@@ -6,6 +6,7 @@ Url to download TABLET TWRP RAR FILE:
 https://www.dropbox.com/s/5xufzqn54b25svd/TWRP.rar?dl=1
 
 Url to download TV TWRP RAR FILE:
+https://www.dropbox.com/s/lk1j7z84kf34yi6/TWRP-TV.rar?dl=1
 
 Please watch this video on how to sucessfully restore the TWRP files.
 https://www.youtube.com/watch?v=jNXHbnvoCuI
