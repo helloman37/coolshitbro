@@ -1,6 +1,14 @@
+Edit: Download, TWRP.rar and extract it to the root of your SD CARD. After you have done that open the TWRP recovery
+on your nintendo switch, then click Wipe, and Wipe EVERYTHING. Then hit back and click restore.
+Select your sdcard from Select Storage and restore everything from the TWRP RAR file.
+Url to download TWRP RAR FILE:
+https://www.dropbox.com/s/5xufzqn54b25svd/TWRP.rar?dl=1
+
+It has been done for you, just follow the steps.
+
 At first I wanted to make this available for any android device. What is better than to have it on a gaming system.
 This process is less than painful, and a lot painless than the origional method I wanted to use.
-Everything is preselected to make this a smooth process. This will NOT be done for you.
+Everything is preselected to make this a smooth process.
 
 Note: This should work on any rooted android device. We will be working with Switchroot, Nintendo Switch Android.
 
