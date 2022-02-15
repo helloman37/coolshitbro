@@ -92,5 +92,7 @@ After you had done all of this, try hooking up a Flash Drive to the outside of t
 When booting up your nintendo switch, make sure to boot it without it being connected to the Dock. After full boot, then place it in the Dock.
 If you had used a flash drive for extended storage, it will still work after you placed the Switch into the Dock.
 
+The joycons will not work out of the boot, you will haft to turn them off bu the pair button, and turn them on again by the same button. 
+Then they should work fine.
 
 Bye, bye now. Enjoy!
