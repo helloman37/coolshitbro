@@ -95,4 +95,8 @@ If you had used a flash drive for extended storage, it will still work after you
 The joycons will not work out of the boot, you will haft to turn them off bu the pair button, and turn them on again by the same button. 
 Then they should work fine.
 
+If the current Aptoid that is installed does not work well for you, go to: http://tiny.cc/AptoidTv
+
+Either on the Browser, (Tablet Image) or Downloader, (TV IMAGE) and install the TV version. Uninstall the current Aptoid first, then install the new one.
+
 Bye, bye now. Enjoy!
