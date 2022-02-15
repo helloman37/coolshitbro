@@ -89,5 +89,8 @@ Try this with the Joy-con grip, feels very nice, and confertable.
 
 After you had done all of this, try hooking up a Flash Drive to the outside of the Switch Dock. ;) Extended storage for your Tivimate DVR! :) 
 
+When booting up your nintendo switch, make sure to boot it without it being connected to the Dock. After full boot, then place it in the Dock.
+If you had used a flash drive for extended storage, it will still work after you placed the Switch into the Dock.
+
 
 Bye, bye now. Enjoy!
