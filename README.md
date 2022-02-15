@@ -11,7 +11,7 @@ https://www.dropbox.com/s/lk1j7z84kf34yi6/TWRP-TV.rar?dl=1
 Please watch this video on how to sucessfully restore the TWRP files.
 https://www.youtube.com/watch?v=jNXHbnvoCuI
 
-Also note, TIVIMATE will look rather "small" when the Nintendo Switch is Docked to the TV. Give it a little bit of time, it should fix it'self.
+Also note, TIVIMATE will look rather "small" when the Nintendo Switch is Docked to the TV. Force close the app, and it will fix it'self. :) 
 
 It has been done for you, just follow the steps.
 
