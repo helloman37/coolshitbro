@@ -87,5 +87,7 @@ Aptoid is pre-installed to both images, this ensures smoother functionality when
 
 Try this with the Joy-con grip, feels very nice, and confertable.
 
+After you had done all of this, try hooking up a Flash Drive to the outside of the Switch Dock. ;) Extended storage for your Tivimate DVR! :) 
+
 
 Bye, bye now. Enjoy!
