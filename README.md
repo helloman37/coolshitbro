@@ -66,10 +66,15 @@ This allows the system to run smooth.
 A: Google is your friend. (Or is it? ;))
 
 Controls:
+
 B - Select
+
 Long Press B - Opens Options
+
 Up, Down Arrow Keys Channel Change
+
 A - Back
+
 House Button - Home Screen
 
 Aptoid is pre-installed to both images, this ensures smoother functionality when installing apps.
