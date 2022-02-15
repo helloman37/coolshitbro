@@ -99,4 +99,8 @@ If the current Aptoid that is installed does not work well for you, go to: http:
 
 Either on the Browser, (Tablet Image) or Downloader, (TV IMAGE) and install the TV version. Uninstall the current Aptoid first, then install the new one.
 
+Also Note: If you are using the TV Image, you will need to install the browser plugin before installing any direct APK.
+
+Type in: browser.aftvnews.com
+
 Bye, bye now. Enjoy!
