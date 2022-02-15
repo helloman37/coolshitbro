@@ -7,6 +7,9 @@ https://www.dropbox.com/s/5xufzqn54b25svd/TWRP.rar?dl=1
 
 Url to download TV TWRP RAR FILE:
 
+Please watch this video on how to sucessfully restore the TWRP files.
+https://www.youtube.com/watch?v=jNXHbnvoCuI
+
 It has been done for you, just follow the steps.
 
 At first I wanted to make this available for any android device. What is better than to have it on a gaming system.
