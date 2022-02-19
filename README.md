@@ -1,3 +1,8 @@
+If you just are in need of the zip file for your rooted device go here:
+
+Download the Tivimate Zip (https://bit.ly/tivimateman2) is given to you. Then open up Root Explorer to extract all the files from within the zip archive to /data/data/ar.tvplayer.tv
+
+
 Edit: Download, TWRP.rar and extract it to the root of your SD CARD. After you have done that open the TWRP recovery
 on your nintendo switch, then click Wipe, and Wipe EVERYTHING. Then hit back and click restore.
 Select your sdcard from Select Storage and restore everything from the TWRP RAR file.
