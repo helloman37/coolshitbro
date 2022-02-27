@@ -112,4 +112,4 @@ My Tivimate files: (https://bit.ly/tivimateman2) Will only work for a rooted dev
 
 I had tried to build an app to avoid rooting, it had failed. A rooted device is the only, true way to go about this.
 
-Bye, bye now. Enjoy!
+Enjoy!
